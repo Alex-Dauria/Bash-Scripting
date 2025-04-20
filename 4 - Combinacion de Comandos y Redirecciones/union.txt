@@ -1,0 +1,3 @@
+[River];[Rojo y blanco];[Momumental]
+[Boca];[Azul y oro];[Bombonera]
+[Racing];[Celeste y blanco];[Cilindro]
